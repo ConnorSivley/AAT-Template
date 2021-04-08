@@ -24,7 +24,7 @@ function __init__()
 	//Variables in order
 	//AAT Name
 	//AAT Localized String
-	//Feedback Icon
+	//Feedback Icon 
 
 	aat::register( ZM_AAT_TEMPLATE_NAME,
 	ZM_AAT_TEMPLATE_LOCALIZED_STRING,
