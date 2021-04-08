@@ -38,7 +38,7 @@ function __init__()
 	//variables in order
 	//AAT Name, Percentage chance of happening
 	//Cooldown time Entity, Cooldown time for User
-	//Global cooldown time, Occurs on Death(yes or no)
+	//Global cooldown time, Occurs on Death(yes or no) -> Most AATs trigger on death, but some(like Turned) will only trigger if the affected zombie is still alive.
 	//result function, damage feedback icon
 	//damage feedback sound, validation function
 
