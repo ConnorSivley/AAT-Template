@@ -1,5 +1,5 @@
 // TEMPLATE ALTERNATE AMMO
-//
+// 
 
 #define ZM_AAT_TEMPLATE_NAME						"zm_aat_template"
 #define ZM_AAT_TEMPLATE_CF_NAME_ZAP				ZM_AAT_TEMPLATE_NAME + "_result"
